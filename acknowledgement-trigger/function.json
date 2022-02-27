@@ -6,7 +6,7 @@
       "direction": "in",
       "topicName": "acknowledgement",
       "subscriptionName": "transfer",
-      "connection": "johnwatson484_SERVICEBUS"
+      "connection": "MESSAGE_CONNECTION"
     }
   ]
 }
