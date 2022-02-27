@@ -1,3 +1,6 @@
+[![Build Status](https://dev.azure.com/johnwatson484/John%20D%20Watson/_apis/build/status/Acknowledgement%20Trigger?branchName=main)](https://dev.azure.com/johnwatson484/John%20D%20Watson/_build/latest?definitionId=61&branchName=main)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=johnwatson484_acknowledgement-trigger&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=johnwatson484_acknowledgement-trigger)
+
 # Acknowledgement Trigger
 Azure Function to trigger transfer of acknowledgement files from blob storage
 
