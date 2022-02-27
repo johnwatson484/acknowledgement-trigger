@@ -4,7 +4,7 @@
       "name": "mySbMsg",
       "type": "serviceBusTrigger",
       "direction": "in",
-      "topicName": "%ACKNOWLEDGMENT_TOPIC%",
+      "topicName": "%ACKNOWLEDGEMENT_TOPIC%",
       "subscriptionName": "transfer",
       "connection": "MESSAGE_CONNECTION"
     }
