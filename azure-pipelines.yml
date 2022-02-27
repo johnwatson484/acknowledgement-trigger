@@ -81,4 +81,4 @@ stages:
               appType: 'functionAppLinux'
               appName: '$(functionAppName)'
               package: '$(Pipeline.Workspace)/drop/$(Build.BuildId).zip'
-              appSettings: '-MESSAGE_CONNECTION $(MESSAGE_CONNECTION) -TRIGGER_URL $(TRIGGER_URL)'
+              appSettings: '-MESSAGE_CONNECTION $(MESSAGE_CONNECTION) -TRIGGER_URL $(TRIGGER_URL) -TRANSFER_SUBSCRIPTION $(TRANSFER_SUBSCRIPTION)'

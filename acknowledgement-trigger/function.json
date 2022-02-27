@@ -5,7 +5,7 @@
       "type": "serviceBusTrigger",
       "direction": "in",
       "topicName": "acknowledgement",
-      "subscriptionName": "transfer",
+      "subscriptionName": "TRANSFER_SUBSCRIPTION",
       "connection": "MESSAGE_CONNECTION"
     }
   ]
